@@ -1,8 +1,10 @@
 <?php
-
+//Almente o tempo de execução e memória caso seja necessário
 set_time_limit(3000);
 ini_set('memory_limit', '-1');
-include_once '../app/Mage.php';
+
+
+include_once 'app/Mage.php';
 include_once 'geraratributos.php';
 $atr = new GerarAtributos();
 umask(0);
