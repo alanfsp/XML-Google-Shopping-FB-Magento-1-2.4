@@ -5,3 +5,6 @@ Em versões anteriores, caso algum campo fique vazio, verifique os nomes das var
 
 
 Para funcionar basta copiar o arquivo admmin-xml-g.php para a pasta raiz do magento.
+
+
+Mais informações - > http://dev.redatitech.com/96/magento-1-9-gerar-feed-xml-automatico-para-google-shopping-e-facebook-produtos-gratis/
